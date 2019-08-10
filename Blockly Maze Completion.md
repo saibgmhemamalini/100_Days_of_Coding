@@ -22,4 +22,4 @@ Assign it to the variable remaining_blocks.
 remaining_blocks = 0 
 print("JavaScript code for Level 10")
 print(level_10_code)
-print("Number of blocks remaining", remaining_blocks) ```
+print("Number of blocks remaining", remaining_blocks) 
