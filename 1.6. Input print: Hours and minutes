@@ -1,4 +1,4 @@
-# Given the integer N - the number of seconds that is passed since midnight - how many full hours and full minutes are passed since midnight?
+#Given the integer N - the number of seconds that is passed since midnight - how many full hours and full minutes are passed since midnight?
 
 The program should print two numbers: the number of hours (between 0 and 23) and the number of minutes (between 0 and 1339).
 
@@ -6,7 +6,7 @@ The program should print two numbers: the number of hours (between 0 and 23) and
 3900
 
 Example output
-1 65```
+1 65 ```
 
 ``` a = int(input())
-print(a//3600,int(a/3600*60))```
+print(a//3600,int(a/3600*60)) ```
