@@ -5,11 +5,11 @@ Every number is given on a separate line.
 3
 5
 Example output
-7.5```
+7.5
 
 
 
 ``` b = int(input())
 h = int(input())
 area = ((1/2)*b*h)
-print(area)```
+print(area)
