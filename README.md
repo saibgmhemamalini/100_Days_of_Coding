@@ -22,6 +22,6 @@
 20) [Jugs Mugs Pugs Lite](https://github.com/saibgmhemamalini/100_Days_of_Coding/blob/master/3.S.%20JugsMugsPugs%20Lite.md)
 21) [Jugs Mugs Pugs Plus](https://github.com/saibgmhemamalini/100_Days_of_Coding/blob/master/3.U.%20JugsMugsPugsPlus.md)
 22) [Digits in Number](https://github.com/saibgmhemamalini/100_Days_of_Coding/blob/master/5.D.%20Membership:%20Digit%20in%20Number.md)
-23) [Jugs Mugs Pugs Range]
-24) [Jugs Mugs Pugs Rev]
-25) [Jugs Mugs Pugs Special]
+23) [Jugs Mugs Pugs Range](https://github.com/saibgmhemamalini/100_Days_of_Coding/blob/master/3.W.%20JugsMugsPugs%20Range.md)
+24) [Jugs Mugs Pugs Rev](https://github.com/saibgmhemamalini/100_Days_of_Coding/blob/master/3.V.%20JugsMugsPugsPlus%20Reverse.md)
+25) [Jugs Mugs Pugs Special](https://github.com/saibgmhemamalini/100_Days_of_Coding/blob/master/3.X.%20JugsMugsPugs%20Special.md)
