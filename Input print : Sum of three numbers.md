@@ -1,15 +1,19 @@
 # Write a program that takes three numbers and prints their sum. Every number is given on a separate line.
 
-``` Example input
+```
+Example input
 2
 3
 6
 
 Example output
-11```
+11
+```
 
-``` a = int(input())
+```
+a = int(input())
 b = int(input())
 c = int(input())
-print(a + b + c)```
+print(a + b + c)
+```
 
