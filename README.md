@@ -1,10 +1,10 @@
 # 100_Days_of_Coding
 
 1) [Blockly Maze Completion](https://github.com/saibgmhemamalini/100_Days_of_Coding/blob/master/0.1%20Level10.md)
-2) [Hug Right]
-3) [Hug Left]
-4) [Sum of Three Numbers]
-5) [Area of Triangle]
+2) [Hug Right](https://github.com/saibgmhemamalini/100_Days_of_Coding/blob/master/0.2%20HugRight.md)
+3) [Hug Left]()
+4) [Sum of Three Numbers]()
+5) [Area of Triangle]()
 6) [Hello Harry!]
 7) [Previous and next Numbers]
 8) [Apple Sharing]
