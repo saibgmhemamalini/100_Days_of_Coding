@@ -1,6 +1,6 @@
 # 100_Days_of_Coding
 
-1) [Blockly Maze Completion](0.1 Level10.md)
+1) [Blockly Maze Completion](https://github.com/saibgmhemamalini/100_Days_of_Coding/blob/master/0.1%20Level10.md)
 2) [Hug Right]
 3) [Hug Left]
 4) [Sum of Three Numbers]
