@@ -1,6 +1,6 @@
 # 100_Days_of_Coding
 
-1) [Blockly Maze Completion](
+1) [Blockly Maze Completion](0.1 Level10.md)
 2) [Hug Right]
 3) [Hug Left]
 4) [Sum of Three Numbers]
