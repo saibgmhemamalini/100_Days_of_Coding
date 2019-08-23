@@ -32,3 +32,4 @@
 30) [ladder](https://github.com/saibgmhemamalini/100_Days_of_Coding/blob/master/4.A.%20For:%20Ladder.md)
 31) [Second maximum](https://github.com/saibgmhemamalini/100_Days_of_Coding/blob/master/6.C.%20While:%20Second%20maximum.md)
 32) [Spy Plane](https://github.com/saibgmhemamalini/100_Days_of_Coding/blob/master/4.X.%20Spy%20Plane.md)
+33) [Slices](https://github.com/saibgmhemamalini/100_Days_of_Coding/blob/master/5.1.%20Strings:%20Slices.md)
